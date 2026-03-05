@@ -1,0 +1,8 @@
+app.py
+requirements.txt
+
+src/
+   loader.py
+   curva_abc.py
+   comparador.py
+   insights.py
